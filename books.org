@@ -1,0 +1,3 @@
+* Books
+** Chen Bin - Mastering Emacs in one year :emacs:
+https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-en.org
